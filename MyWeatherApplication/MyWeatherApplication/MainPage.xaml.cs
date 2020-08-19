@@ -36,7 +36,7 @@ namespace MyWeatherApplication
             string icon = string.Format("http://openweathermap.org/img/w/{0}.png",
                 myWeather.weather[0].icon);
             ResultIconImage.Source = new BitmapImage(new Uri(icon, UriKind.Absolute));
-            ResultWeatherTextBlock.Text = myWeather.name + "-" + ((int)myWeather.main.temp).ToString() + "-" + myWeather.clouds;
+            ResultWeatherTextBlock.Text = myWeather.name + "-" + ((int)myWeather.main.temp).ToString();
 
         }
     }

@@ -11,7 +11,7 @@
     <StackPanel>
         <Button x:ConnectionId='2' Content="Show me HN's Weather"                     />
         <TextBlock x:ConnectionId='3' Name="ResultWeatherTextBlock"/>
-        <Image x:ConnectionId='4' Name="ResultIconImage" Width="200" Height="200"/>
+        <Image x:ConnectionId='4' Name="ResultIconImage" Width="50" Height="50"/>
     </StackPanel>
 </Page>
 

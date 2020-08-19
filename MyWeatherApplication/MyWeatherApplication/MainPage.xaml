@@ -11,6 +11,6 @@
     <StackPanel>
         <Button Content="Show me HN's Weather" Click="Button_Click"/>
         <TextBlock Name="ResultWeatherTextBlock"/>
-        <Image Name="ResultIconImage" Width="200" Height="200"/>
+        <Image Name="ResultIconImage" Width="50" Height="50"/>
     </StackPanel>
 </Page>
