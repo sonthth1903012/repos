@@ -28,7 +28,9 @@ namespace WeatherAppDemo
         {
             this.InitializeComponent();
         }
-            private async void Page_Loaded(object sender, RoutedEventArgs e)
+
+        [Obsolete]
+        private async void Page_Loaded(object sender, RoutedEventArgs e)
             {
                 try
                 {

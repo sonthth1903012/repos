@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\jngst\source\repos\WeatherAppDemo\WeatherAppDemo\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>AA866E2751020E896B6DD9316476BC0D924B6D40456F6D35D0C4D823B2863647</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>6FCF07C21A429511FAA44157209C5EFA7382DA467CD335B64209B9BF1CD2DD94</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>11f984c4-efbb-4a5a-945f-e71e9113f38d_1.0.0.0_x86__3xevbzhn42rvm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>11f984c4-efbb-4a5a-945f-e71e9113f38d_3xevbzhn42rvm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>11f984c4-efbb-4a5a-945f-e71e9113f38d</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\jngst\source\repos\WeatherAppDemo\WeatherAppDemo\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-08-19T12:19:15.768</Modified>
+      <Modified>2020-08-21T04:53:19.212</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\WeatherAppDemo\WeatherAppDemo\bin\x86\Debug\WeatherAppDemo.exe">
       <PackagePath>entrypoint\WeatherAppDemo.exe</PackagePath>
-      <Modified>2020-08-19T12:19:10.476</Modified>
+      <Modified>2020-08-21T04:53:18.699</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -162,11 +162,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\WeatherAppDemo\WeatherAppDemo\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-08-19T12:19:10.002</Modified>
+      <Modified>2020-08-21T04:53:18.556</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\WeatherAppDemo\WeatherAppDemo\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-08-19T12:19:10.002</Modified>
+      <Modified>2020-08-21T04:53:18.556</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -174,11 +174,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\WeatherAppDemo\WeatherAppDemo\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-08-19T12:19:11.370</Modified>
+      <Modified>2020-08-21T04:50:41.532</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\WeatherAppDemo\WeatherAppDemo\bin\x86\Debug\Core\WeatherAppDemo.exe">
       <PackagePath>WeatherAppDemo.exe</PackagePath>
-      <Modified>2020-08-19T12:19:15.707</Modified>
+      <Modified>2020-08-21T04:53:19.208</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

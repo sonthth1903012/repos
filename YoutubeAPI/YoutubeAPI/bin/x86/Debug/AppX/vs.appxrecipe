@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-08-21T03:44:49.781</Modified>
+      <Modified>2020-08-21T04:29:55.169</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\YoutubeAPI.exe">
       <PackagePath>entrypoint\YoutubeAPI.exe</PackagePath>
-      <Modified>2020-08-21T03:44:48.548</Modified>
+      <Modified>2020-08-21T04:29:53.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\google.apis\1.47.0\lib\netstandard2.0\Google.Apis.dll">
       <PackagePath>Google.Apis.dll</PackagePath>
@@ -58,13 +58,13 @@
       <PackagePath>Google.Apis.YouTube.v3.dll</PackagePath>
       <Modified>2020-07-02T01:12:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\mytoolkit\2.5.16\lib\portable-net45+wp8+win8+wpa81\MyToolkit.dll">
+    <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\mytoolkit\2.3.31\lib\portable-net45+wp8+win8+wpa81\MyToolkit.dll">
       <PackagePath>MyToolkit.dll</PackagePath>
-      <Modified>2016-11-25T09:45:10.000</Modified>
+      <Modified>2015-06-20T21:43:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\mytoolkit.extended\2.5.16\lib\uap10.0\MyToolkit.Extended.dll">
+    <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\mytoolkit.extended\2.3.31\lib\portable-wpa81+win8\MyToolkit.Extended.dll">
       <PackagePath>MyToolkit.Extended.dll</PackagePath>
-      <Modified>2016-11-25T09:45:12.000</Modified>
+      <Modified>2015-06-20T21:43:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\newtonsoft.json\12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -78,9 +78,25 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T11:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\mytoolkit.extended\2.5.16\lib\uap10.0\MyToolkit.Extended\MyToolkit.Extended.xr.xml">
+    <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\mytoolkit.extended\2.3.31\lib\portable-wpa81+win8\MyToolkit.Extended\MyToolkit.Extended.xr.xml">
       <PackagePath>MyToolkit.Extended\MyToolkit.Extended.xr.xml</PackagePath>
-      <Modified>2016-11-25T09:45:12.000</Modified>
+      <Modified>2015-06-20T21:43:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\mytoolkit.extended\2.3.31\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\DatePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\DatePicker.xbf</PackagePath>
+      <Modified>2015-06-20T21:43:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\mytoolkit.extended\2.3.31\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\TimePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\TimePicker.xbf</PackagePath>
+      <Modified>2015-06-20T21:43:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\mytoolkit.extended\2.3.31\lib\portable-wpa81+win8\MyToolkit.Extended\Themes\generic.xbf">
+      <PackagePath>MyToolkit.Extended\Themes\generic.xbf</PackagePath>
+      <Modified>2015-06-20T21:43:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\mytoolkit.extended\2.3.31\lib\portable-wpa81+win8\MyToolkit.Extended\UI\Popups\ListPickerBox.xbf">
+      <PackagePath>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</PackagePath>
+      <Modified>2015-06-20T21:43:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -126,15 +142,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-08-21T03:44:48.294</Modified>
+      <Modified>2020-08-21T04:24:11.141</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\VideoPage.xbf">
       <PackagePath>VideoPage.xbf</PackagePath>
-      <Modified>2020-08-21T03:44:48.294</Modified>
+      <Modified>2020-08-21T04:24:11.142</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-08-21T03:44:48.295</Modified>
+      <Modified>2020-08-21T04:24:11.142</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -142,11 +158,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-08-21T03:37:16.662</Modified>
+      <Modified>2020-08-21T04:22:56.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\Core\YoutubeAPI.exe">
       <PackagePath>YoutubeAPI.exe</PackagePath>
-      <Modified>2020-08-21T03:44:49.766</Modified>
+      <Modified>2020-08-21T04:29:55.157</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

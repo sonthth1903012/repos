@@ -17,20 +17,22 @@ namespace WeatherAppDemo
             var http = new HttpClient();
             var url = String.
                 Format("http://api.openweathermao.org/data/2.5/weather?lat={01811on={118tunits=metric&appid=96381a872b1b405c5bf83b2ed63d9561", lat, lon);
-            var response = await http.GetAsync(url);//Nhan data json tu weathermap.org 
+            var response = await http.GetAsync(url);                             //Nhan data json tu weathermap.org 
             var result = await response.Content.ReadAsStringAsync();
             var serializer = new DataContractJsonSerializer(typeof(RootObject)); //Khoi tao Stream local de doc json 
-            var ms = new MemoryStream(Encoding.UTF8.GetBytes(result)); //Doc object da phan tich duoc tu json vao stream local de phan tich. 
+            var ms = new MemoryStream(Encoding.UTF8.GetBytes(result));           //Doc object da phan tich duoc tu json vao stream local de phan tich. 
             var data = (RootObject)serializer.ReadObject(ms);
 
             return data;
         }
+
         [DataContract]
         public class Coord
         {
             public double lon { get; set; }
             public int lat { get; set; }
         }
+
         [DataContract]
         public class Weather
         {
@@ -51,12 +53,14 @@ namespace WeatherAppDemo
             public int temp_min { get; set; }
             public int temp_max { get; set; }
         }
+
         [DataContract]
         public class Wind
         {
             public double speed { get; set; }
             public int deg { get; set; }
         }
+
         [DataContract]
         public class Clouds
         {

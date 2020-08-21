@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VVqc+uFah1BYdQU6kZQMhMwhykS0uqbtMiWirkXqWv5wi1qdNErdIsiK7ZiATbbaQS4GhlgS/Xpwc5Pvb/PWSA==",
+  "dgSpecHash": "LwD3tZpYNo0rk6/W5fX5Ww+Z/ZjR0oHhnM24CGFmFFCISppbL/yyZY0aJUBA3SyrDe12oodwHBeDEvTE6hpwRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jngst\\source\\repos\\YoutubeAPI\\YoutubeAPI\\YoutubeAPI.csproj",
   "expectedPackageFiles": [
@@ -12,8 +12,8 @@
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore.universalwindowsplatform\\6.2.10\\microsoft.netcore.universalwindowsplatform.6.2.10.nupkg.sha512",
-    "C:\\Users\\jngst\\.nuget\\packages\\mytoolkit\\2.5.16\\mytoolkit.2.5.16.nupkg.sha512",
-    "C:\\Users\\jngst\\.nuget\\packages\\mytoolkit.extended\\2.5.16\\mytoolkit.extended.2.5.16.nupkg.sha512",
+    "C:\\Users\\jngst\\.nuget\\packages\\mytoolkit\\2.3.31\\mytoolkit.2.3.31.nupkg.sha512",
+    "C:\\Users\\jngst\\.nuget\\packages\\mytoolkit.extended\\2.3.31\\mytoolkit.extended.2.3.31.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\jngst\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform\\6.2.10\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform.6.2.10.nupkg.sha512",

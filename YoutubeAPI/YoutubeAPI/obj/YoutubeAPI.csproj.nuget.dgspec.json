@@ -47,7 +47,7 @@
             },
             "MyToolkit.Extended": {
               "target": "Package",
-              "version": "[2.5.16, )"
+              "version": "[2.3.31, )"
             }
           },
           "imports": [

@@ -255,7 +255,7 @@
           "build/Microsoft.NetCore.UniversalWindowsPlatform.targets": {}
         }
       },
-      "MyToolkit/2.5.16": {
+      "MyToolkit/2.3.31": {
         "type": "package",
         "compile": {
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
@@ -264,16 +264,16 @@
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
         }
       },
-      "MyToolkit.Extended/2.5.16": {
+      "MyToolkit.Extended/2.3.31": {
         "type": "package",
         "dependencies": {
-          "MyToolkit": "2.5.16"
+          "MyToolkit": "2.3.31"
         },
         "compile": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         },
         "runtime": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -645,7 +645,7 @@
           "build/Microsoft.NetCore.UniversalWindowsPlatform.targets": {}
         }
       },
-      "MyToolkit/2.5.16": {
+      "MyToolkit/2.3.31": {
         "type": "package",
         "compile": {
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
@@ -654,16 +654,16 @@
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
         }
       },
-      "MyToolkit.Extended/2.5.16": {
+      "MyToolkit.Extended/2.3.31": {
         "type": "package",
         "dependencies": {
-          "MyToolkit": "2.5.16"
+          "MyToolkit": "2.3.31"
         },
         "compile": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         },
         "runtime": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -1213,7 +1213,7 @@
           "build/Microsoft.NetCore.UniversalWindowsPlatform.targets": {}
         }
       },
-      "MyToolkit/2.5.16": {
+      "MyToolkit/2.3.31": {
         "type": "package",
         "compile": {
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
@@ -1222,16 +1222,16 @@
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
         }
       },
-      "MyToolkit.Extended/2.5.16": {
+      "MyToolkit.Extended/2.3.31": {
         "type": "package",
         "dependencies": {
-          "MyToolkit": "2.5.16"
+          "MyToolkit": "2.3.31"
         },
         "compile": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         },
         "runtime": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -1782,7 +1782,7 @@
           "build/Microsoft.NetCore.UniversalWindowsPlatform.targets": {}
         }
       },
-      "MyToolkit/2.5.16": {
+      "MyToolkit/2.3.31": {
         "type": "package",
         "compile": {
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
@@ -1791,16 +1791,16 @@
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
         }
       },
-      "MyToolkit.Extended/2.5.16": {
+      "MyToolkit.Extended/2.3.31": {
         "type": "package",
         "dependencies": {
-          "MyToolkit": "2.5.16"
+          "MyToolkit": "2.3.31"
         },
         "compile": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         },
         "runtime": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -2351,7 +2351,7 @@
           "build/Microsoft.NetCore.UniversalWindowsPlatform.targets": {}
         }
       },
-      "MyToolkit/2.5.16": {
+      "MyToolkit/2.3.31": {
         "type": "package",
         "compile": {
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
@@ -2360,16 +2360,16 @@
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
         }
       },
-      "MyToolkit.Extended/2.5.16": {
+      "MyToolkit.Extended/2.3.31": {
         "type": "package",
         "dependencies": {
-          "MyToolkit": "2.5.16"
+          "MyToolkit": "2.3.31"
         },
         "compile": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         },
         "runtime": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -2919,7 +2919,7 @@
           "build/Microsoft.NetCore.UniversalWindowsPlatform.targets": {}
         }
       },
-      "MyToolkit/2.5.16": {
+      "MyToolkit/2.3.31": {
         "type": "package",
         "compile": {
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
@@ -2928,16 +2928,16 @@
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
         }
       },
-      "MyToolkit.Extended/2.5.16": {
+      "MyToolkit.Extended/2.3.31": {
         "type": "package",
         "dependencies": {
-          "MyToolkit": "2.5.16"
+          "MyToolkit": "2.3.31"
         },
         "compile": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         },
         "runtime": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -3488,7 +3488,7 @@
           "build/Microsoft.NetCore.UniversalWindowsPlatform.targets": {}
         }
       },
-      "MyToolkit/2.5.16": {
+      "MyToolkit/2.3.31": {
         "type": "package",
         "compile": {
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
@@ -3497,16 +3497,16 @@
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
         }
       },
-      "MyToolkit.Extended/2.5.16": {
+      "MyToolkit.Extended/2.3.31": {
         "type": "package",
         "dependencies": {
-          "MyToolkit": "2.5.16"
+          "MyToolkit": "2.3.31"
         },
         "compile": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         },
         "runtime": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -4056,7 +4056,7 @@
           "build/Microsoft.NetCore.UniversalWindowsPlatform.targets": {}
         }
       },
-      "MyToolkit/2.5.16": {
+      "MyToolkit/2.3.31": {
         "type": "package",
         "compile": {
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
@@ -4065,16 +4065,16 @@
           "lib/portable-net45+wp8+win8+wpa81/MyToolkit.dll": {}
         }
       },
-      "MyToolkit.Extended/2.5.16": {
+      "MyToolkit.Extended/2.3.31": {
         "type": "package",
         "dependencies": {
-          "MyToolkit": "2.5.16"
+          "MyToolkit": "2.3.31"
         },
         "compile": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         },
         "runtime": {
-          "lib/uap10.0/MyToolkit.Extended.dll": {}
+          "lib/portable-wpa81+win8/MyToolkit.Extended.dll": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -4850,10 +4850,10 @@
         "runtime.json"
       ]
     },
-    "MyToolkit/2.5.16": {
-      "sha512": "i+kn8csbGif1n4it/McABSvi6qdcr63Sb6JG/00y5838c/hEiZGej/WU4/nstxhCBi8/c49jT/KCysXAC/uTGg==",
+    "MyToolkit/2.3.31": {
+      "sha512": "dzneLb8d2VHTQgbw5HZnffQUn6lz7mSfVFVThvqpYnVnOEpBpcWsxCDCyFYqWDHBLSj2lcmYpTl9HT4cbMKRWQ==",
       "type": "package",
-      "path": "mytoolkit/2.5.16",
+      "path": "mytoolkit/2.3.31",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4862,14 +4862,14 @@
         "lib/portable-net45+wp8+win8+wpa81/MyToolkit.xml",
         "lib/portable-sl5+wp71/MyToolkit.dll",
         "lib/portable-sl5+wp71/MyToolkit.xml",
-        "mytoolkit.2.5.16.nupkg.sha512",
+        "mytoolkit.2.3.31.nupkg.sha512",
         "mytoolkit.nuspec"
       ]
     },
-    "MyToolkit.Extended/2.5.16": {
-      "sha512": "BkJAp6+lhm/esvfmjY1zpatMOErAGsGNlVOo/YtvqBB+9gbFWPbe4tD777NNBRqFIiRoVflPxSxFYYqES7Cbkg==",
+    "MyToolkit.Extended/2.3.31": {
+      "sha512": "QDhWH5sW8czXRxyJ5dNVUqnI5eyouHTRWG+GxoM9U/EFcTrqPu6c7H6HgkHnCAjpklFdSPSau0820+V0QYPhKQ==",
       "type": "package",
-      "path": "mytoolkit.extended/2.5.16",
+      "path": "mytoolkit.extended/2.3.31",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4884,7 +4884,7 @@
         "lib/portable-wpa81+win8/MyToolkit.Extended/Controls/TimePicker.xbf",
         "lib/portable-wpa81+win8/MyToolkit.Extended/MyToolkit.Extended.pdb",
         "lib/portable-wpa81+win8/MyToolkit.Extended/MyToolkit.Extended.xr.xml",
-        "lib/portable-wpa81+win8/MyToolkit.Extended/Themes/Generic.xbf",
+        "lib/portable-wpa81+win8/MyToolkit.Extended/Themes/generic.xbf",
         "lib/portable-wpa81+win8/MyToolkit.Extended/UI/Popups/ListPickerBox.xbf",
         "lib/sl4-wp71/MyToolkit.Extended.dll",
         "lib/sl4-wp71/MyToolkit.Extended.xml",
@@ -4892,17 +4892,11 @@
         "lib/sl4-wp71/fr/MyToolkit.Extended.resources.dll",
         "lib/sl50/MyToolkit.Extended.dll",
         "lib/sl50/MyToolkit.Extended.xml",
-        "lib/uap10.0/MyToolkit.Extended.dll",
-        "lib/uap10.0/MyToolkit.Extended.pri",
-        "lib/uap10.0/MyToolkit.Extended.xml",
-        "lib/uap10.0/MyToolkit.Extended/MyToolkit.Extended.pdb",
-        "lib/uap10.0/MyToolkit.Extended/MyToolkit.Extended.xr.xml",
-        "lib/uap10.0/MyToolkit.Extended/Themes/Generic.xbf",
         "lib/wp80/MyToolkit.Extended.dll",
         "lib/wp80/MyToolkit.Extended.xml",
         "lib/wp80/de/MyToolkit.Extended.resources.dll",
         "lib/wp80/fr/MyToolkit.Extended.resources.dll",
-        "mytoolkit.extended.2.5.16.nupkg.sha512",
+        "mytoolkit.extended.2.3.31.nupkg.sha512",
         "mytoolkit.extended.nuspec"
       ]
     },
@@ -8989,7 +8983,7 @@
     "UAP,Version=v10.0.17763": [
       "Google.Apis.YouTube.v3 >= 1.47.0.2008",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.10",
-      "MyToolkit.Extended >= 2.5.16"
+      "MyToolkit.Extended >= 2.3.31"
     ]
   },
   "packageFolders": {
@@ -9039,7 +9033,7 @@
           },
           "MyToolkit.Extended": {
             "target": "Package",
-            "version": "[2.5.16, )"
+            "version": "[2.3.31, )"
           }
         },
         "imports": [

@@ -61,3 +61,8 @@ C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\obj\x86\Debug\qualifiers.txt.i
 C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json
+C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\MyToolkit.Extended\Controls\DatePicker.xbf
+C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\MyToolkit.Extended\Controls\TimePicker.xbf
+C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\MyToolkit.Extended\Themes\generic.xbf
+C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\MyToolkit.Extended\UI\Popups\ListPickerBox.xbf
+C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\obj\x86\Debug\YoutubeAPI.csprojAssemblyReference.cache
