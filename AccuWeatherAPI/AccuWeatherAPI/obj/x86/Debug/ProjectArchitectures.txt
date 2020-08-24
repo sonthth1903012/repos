@@ -1,0 +1,1 @@
+C:\Users\jngst\source\repos\AccuWeatherAPI\AccuWeatherAPI\AccuWeatherAPI.csproj;x86
