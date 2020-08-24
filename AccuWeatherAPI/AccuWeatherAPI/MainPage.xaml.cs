@@ -63,8 +63,10 @@ namespace AccuWeatherAPI
 
                  it.DateTime = match; 
                  it.Temperature.Value += "\u00B0";
-                 it.WeatherIcon = string.Format("https://vortex.accuweather.com/adc2010/images/slate/icons/(0.svg",
-                 it.WeatherIcon);
+                 it.WeatherIcon = string.Format("https://vortex.accuweather.com/adc2010/images/slate/icons/{0}.svg",
+                   it.WeatherIcon);
+
+
                  WeatherEachHours.Add(it); 
             } 
             );
@@ -75,15 +77,16 @@ namespace AccuWeatherAPI
 
         private async void InitEachDaysJSON()
         {
-            var urlFiveDay = "http://dataservice.accuweather.com/forecasts/v1/dailv/Sdav/353412?" +
-                "apikey=CxacifbYMdKI3Ofs02iXy127Z7dF2MeU&metric=true";
+            var urlFiveDay = "http://dataservice.accuweather.com/forecasts/v1/daily/5day/353412?" +
+                "apikey=CxILqfbYMdKI30fs02iXyl2JZJdF2MeU&metric=true";
             var obj = await WeatherEachDay.GetWeatherEach(urlFiveDay) as WeatherEachDay;
             obj.DailyForecasts.ForEach(it =>
             {
-                var matchs = Regex.Matches(it.Date, "\\df");
+                var matchs = Regex.Matches(it.Date, "\\d+");
                 var date = new DateTime(int.Parse(matchs[0].Value), int.Parse(matchs[1].Value), int.Parse(matchs[2].Value));
                 it.Date = date.DayOfWeek.ToString();
-                it.Day.Icon = string.Format("httbs://vortex.accuweather.com/adc2010/images/slate/icons/{0}.svg", it.Day.Icon);
+                it.Day.Icon = string.Format("httbs://vortex.accuweather.com/adc2010/images/slate/icons/{0}.svg",
+                    it.Day.Icon);
                 Debug.WriteLine("Binh: " + it.Date);
                 WeatherEachDays.Add(it);
             }
