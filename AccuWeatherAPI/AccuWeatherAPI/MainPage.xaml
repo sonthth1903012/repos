@@ -126,12 +126,12 @@
                                Source="{x:Bind Day.Icon}" />
                         <TextBlock Margin="38,0,0,0" 
                                    RelativePanel.RightOf="ImageWeather" 
-                                   Text="fx:Bind Temperature.Maximum.Value}" />
+                                   Text="{x:Bind Temperature.Maximum.Value}" />
                         <TextBlock Margin="76,0,0,0" 
                                    FontSize="13"
                                    Foreground="Brown" 
                                    RelativePanel.RightOf="ImageWeather"
-                                   Text="fx:Bind Temperature.Minimum.Value}" />
+                                   Text="{x:Bind Temperature.Minimum.Value}" />
                     </RelativePanel>
                 </DataTemplate>
             </GridView.ItemTemplate>
