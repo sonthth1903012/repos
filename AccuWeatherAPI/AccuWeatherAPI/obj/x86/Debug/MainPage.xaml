@@ -31,19 +31,19 @@
                        Text="Ha Noi" />
             
             <TextBlock x:ConnectionId='16' Name="WeatherDescriptionTextBlock" 
-                       Margin="0,95,0,0"
+                       Margin="0,82,0,0"
                        FontFamily="Segoe MDL2 Asset"
-                       FontSize="18"
+                       FontSize="88"
                        FontWeight="Thin" 
                        RelativePanel.AlignHorizontalCenterWithPanel="True" />
             
             <TextBlock x:ConnectionId='17' Name="WeatherTemperatureTextBlock" 
-                       Margin="0,134,0,0" 
+                       Margin="0,170,0,0" 
                        FontFamily="Segoe MDL2 Asset"
-                       FontSize="85" 
+                       FontSize="14" 
                        FontWeight="Thin"
                        RelativePanel.AlignHorizontalCenterWithPanel="True"
-                       Text="123123" />
+                       Text="Hanoi, Vietnam" />
             
             <TextBlock x:ConnectionId='18' Name="Today" 
                        Margin="18,0,0,10"
