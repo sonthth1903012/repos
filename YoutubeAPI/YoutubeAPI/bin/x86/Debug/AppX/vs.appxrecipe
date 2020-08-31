@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>A387E7387DB51107D37BA3C0C538E43560DA03A0359D1816BAC5F11724C2E964</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>597DF096BEEA26A462685971C958A853AEF1EA17839DE0D8B9015F1DED377853</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d5d2a88a-c08b-43c1-bf74-7faab7eb6040_1.0.0.0_x86__3xevbzhn42rvm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d5d2a88a-c08b-43c1-bf74-7faab7eb6040_3xevbzhn42rvm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d5d2a88a-c08b-43c1-bf74-7faab7eb6040</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-08-21T04:29:55.169</Modified>
+      <Modified>2020-08-31T03:31:31.219</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\YoutubeAPI.exe">
       <PackagePath>entrypoint\YoutubeAPI.exe</PackagePath>
-      <Modified>2020-08-21T04:29:53.669</Modified>
+      <Modified>2020-08-31T03:31:29.607</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\.nuget\packages\google.apis\1.47.0\lib\netstandard2.0\Google.Apis.dll">
       <PackagePath>Google.Apis.dll</PackagePath>
@@ -142,15 +142,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-08-21T04:24:11.141</Modified>
+      <Modified>2020-08-24T05:00:26.374</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\VideoPage.xbf">
       <PackagePath>VideoPage.xbf</PackagePath>
-      <Modified>2020-08-21T04:24:11.142</Modified>
+      <Modified>2020-08-24T05:00:26.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-08-21T04:24:11.142</Modified>
+      <Modified>2020-08-24T05:00:26.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -158,11 +158,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-08-21T04:22:56.635</Modified>
+      <Modified>2020-08-31T03:16:28.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\YoutubeAPI\YoutubeAPI\bin\x86\Debug\Core\YoutubeAPI.exe">
       <PackagePath>YoutubeAPI.exe</PackagePath>
-      <Modified>2020-08-21T04:29:55.157</Modified>
+      <Modified>2020-08-31T03:31:31.209</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

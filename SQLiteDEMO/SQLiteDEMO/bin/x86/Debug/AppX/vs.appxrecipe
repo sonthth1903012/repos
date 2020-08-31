@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>fc7cafad-016a-4b10-abed-40771c03c70b</PackageIdentityName>
     <PackageIdentityPublisher>CN=jngst</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>018E83B4E25CE3F8FFD26DADA201FCEC25708771FE526646C5BDADD32ADEB802</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>5AD94B77E04DCCF584BB47EFF85E2F67F264CCD6AB87F636915BE7A417A33601</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>fc7cafad-016a-4b10-abed-40771c03c70b_1.0.0.0_x86__3xevbzhn42rvm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>fc7cafad-016a-4b10-abed-40771c03c70b_3xevbzhn42rvm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>fc7cafad-016a-4b10-abed-40771c03c70b</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-08-27T15:16:17.939</Modified>
+      <Modified>2020-08-31T04:36:30.750</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\SQLiteDEMO.exe">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\bin\x86\Debug\SQLiteDEMO.exe">
       <PackagePath>entrypoint\SQLiteDEMO.exe</PackagePath>
-      <Modified>2020-08-27T15:16:05.887</Modified>
+      <Modified>2020-08-31T04:36:29.315</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -58,67 +58,67 @@
       <PackagePath>sqlite3.dll</PackagePath>
       <Modified>2020-08-26T04:38:17.349</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2020-08-26T04:51:47.317</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2020-08-09T00:23:19.512</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-08-09T00:23:19.517</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-08-09T00:23:19.519</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-08-09T00:23:19.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-08-09T00:23:19.521</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-08-09T00:23:19.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-08-09T00:23:19.523</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\SQLiteDEMO.xr.xml">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\bin\x86\Debug\SQLiteDEMO.xr.xml">
       <PackagePath>SQLiteDEMO.xr.xml</PackagePath>
       <Modified>2020-08-27T15:16:05.002</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-08-27T15:16:05.131</Modified>
+      <Modified>2020-08-31T04:36:29.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-08-27T15:16:05.131</Modified>
+      <Modified>2020-08-31T04:36:29.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T10:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-08-27T15:16:07.713</Modified>
+      <Modified>2020-08-31T04:36:29.777</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\Core\SQLiteDEMO.exe">
+    <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\bin\x86\Debug\Core\SQLiteDEMO.exe">
       <PackagePath>SQLiteDEMO.exe</PackagePath>
-      <Modified>2020-08-27T15:16:17.815</Modified>
+      <Modified>2020-08-31T04:36:30.677</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

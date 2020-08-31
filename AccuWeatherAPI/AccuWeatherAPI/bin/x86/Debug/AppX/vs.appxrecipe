@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\jngst\source\repos\AccuWeatherAPI\AccuWeatherAPI\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>FA501CAEF4291108D7ECC2270CDC2B5006BF8E1E3106BE7A03E1053D9E02773E</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>A5986F41A38C07BBFAA047BC2503773AB37AFC97E2D7C4A2CDB594B5B1660D2A</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>a5c35942-d9be-4ba6-a456-2833c11ab9bb_1.0.0.0_x86__3xevbzhn42rvm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>a5c35942-d9be-4ba6-a456-2833c11ab9bb_3xevbzhn42rvm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>a5c35942-d9be-4ba6-a456-2833c11ab9bb</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\jngst\source\repos\AccuWeatherAPI\AccuWeatherAPI\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-08-26T01:47:27.084</Modified>
+      <Modified>2020-08-31T03:44:09.753</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\AccuWeatherAPI\AccuWeatherAPI\bin\x86\Debug\AccuWeatherAPI.exe">
       <PackagePath>entrypoint\AccuWeatherAPI.exe</PackagePath>
-      <Modified>2020-08-26T01:47:25.766</Modified>
+      <Modified>2020-08-31T03:44:08.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -94,11 +94,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\AccuWeatherAPI\AccuWeatherAPI\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-08-24T05:18:27.428</Modified>
+      <Modified>2020-08-31T03:44:07.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\AccuWeatherAPI\AccuWeatherAPI\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-08-26T01:47:25.329</Modified>
+      <Modified>2020-08-31T03:44:07.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -106,11 +106,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\AccuWeatherAPI\AccuWeatherAPI\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-08-26T01:26:43.370</Modified>
+      <Modified>2020-08-31T03:44:08.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\AccuWeatherAPI\AccuWeatherAPI\bin\x86\Debug\Core\AccuWeatherAPI.exe">
       <PackagePath>AccuWeatherAPI.exe</PackagePath>
-      <Modified>2020-08-26T01:47:27.021</Modified>
+      <Modified>2020-08-31T03:44:09.711</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

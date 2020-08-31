@@ -54,8 +54,8 @@ namespace YoutubeAPI
                 if (NetworkInterface.GetIsNetworkAvailable())
                 {
                     var Request = youtubeService.Search.List("snippet");
-                    Request.ChannelId = "UCjGZoFtIH9O9Ssvb7FsQOOQ";
-                    Request.MaxResults = 25;
+                    Request.ChannelId = "UCGP3J6s7muWHozZilf4Nacw";
+                    Request.MaxResults = 5;
                     Request.Type = "video";
                     Request.Order = SearchResource.ListRequest.OrderEnum.Date;
                     Request.PageToken = PageToken;

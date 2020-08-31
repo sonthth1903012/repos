@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "INaP+4Fhc3PIKZyXA0zSrx1qu5l+q9xTkHq7U/Ci23tz9JeOgUDJL0wxRaHH+LS1WxfN5QjuwQCnpphv2eN2FA==",
+  "dgSpecHash": "p5qfpcKncdKJ5TPtQQxQXp5kbtr4kNk4fnb9SPw9mLtKMJWEZ/myhHI+uzwRwrAhJQtPPxD1ulk666H4C5pY3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jngst\\source\\repos\\SQLiteDemo\\SQLiteDEMO\\SQLiteDEMO.csproj",
+  "projectFilePath": "C:\\Users\\jngst\\source\\repos\\SQLiteDEMO\\SQLiteDEMO\\SQLiteDEMO.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.8-rel-28605-00\\microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",
