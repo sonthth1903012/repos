@@ -54,5 +54,6 @@
       <RootProperty Name="ScaleY" />
     </RootType>
     <RootType FullName="SQLiteDEMO.MainPage" />
+    <RootType FullName="SQLiteDEMO.TheSearch" />
   </Roots.RootTypes>
 </Roots>
