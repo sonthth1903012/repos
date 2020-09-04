@@ -10,16 +10,16 @@
 
 
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="0,0,0,167">
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="0,0,0,10">
         <Button x:Name="Search" 
                  Content="Add Contact" 
-                 Margin="513,437,0,0" 
+                 Margin="513,373,0,0" 
                  Click="Add_Click" Width="370" VerticalAlignment="Top"/>
 
         <Button x:Name="Retrieve" 
                 Content="Show  List" 
                 VerticalAlignment="Top" 
-                Margin="513,474,0,0" 
+                Margin="513,436,0,0" 
                 Click="Retrieve_Click" Width="370"/>
 
         <TextBlock x:Name="textBlock" 
@@ -57,7 +57,7 @@
             </Border.RenderTransform>
         </Border>
         <TextBlock HorizontalAlignment="Left" Height="84" Margin="356,32,0,0" Text="Add Contact" TextWrapping="Wrap" VerticalAlignment="Top" Width="494" FontSize="57"/>
-        <TextBlock  x:Name="textBlock2" HorizontalAlignment="Left" Margin="266,795,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="737" Height="185"/>
+        <TextBlock  x:Name="textBlock2" HorizontalAlignment="Left" Margin="374,516,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="629" Height="107"/>
     </Grid>
 </Page>
 
