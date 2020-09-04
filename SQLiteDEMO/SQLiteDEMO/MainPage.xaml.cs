@@ -42,27 +42,28 @@ namespace SQLiteDEMO
 
             conn.CreateTable<Customer>();
         }
+
         private void Retrieve_Click(object sender, RoutedEventArgs e)
         {
             var query = conn.Table<Customer>(); 
             string id = ""; 
             string name = ""; 
-            string age = "";
+            string Phone_number = "";
             
             foreach (var message in query)
             {
                 id = id + " " + message.Id;
                 name = name + " " + message.Name;
-                age = age + " " + message.Age;
+                Phone_number = Phone_number + " " + message.Phone_number;
             }
-            textBlock2.Text = "ID: " + id + "\nName: " + name + "\nAge: " + age;
+            textBlock2.Text = "ID: " + id + "\nName: " + name + "\nAge: " + Phone_number;
         }
         private void Add_Click(object sender, RoutedEventArgs e)
         {
             var s = conn.Insert(new Customer()
             {
                 Name = textBox.Text,
-                Age = textBox1.Text
+                Phone_number = textBox1.Text
             });
         }
 
@@ -70,7 +71,7 @@ namespace SQLiteDEMO
         {
             [PrimaryKey, AutoIncrement] public int Id { get; set; }
             public string Name { get; set; }
-            public string Age { get; set; }
+            [Unique] public string Phone_number { get; set; }
         } 
 
     }

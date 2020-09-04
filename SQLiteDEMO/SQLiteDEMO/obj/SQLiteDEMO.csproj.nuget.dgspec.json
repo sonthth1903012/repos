@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jngst\\source\\repos\\SQLiteDEMO\\SQLiteDEMO\\SQLiteDEMO.csproj": {}
+    "C:\\Users\\jngst\\source\\repos\\SQLiteDemo\\SQLiteDEMO\\SQLiteDEMO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jngst\\source\\repos\\SQLiteDEMO\\SQLiteDEMO\\SQLiteDEMO.csproj": {
+    "C:\\Users\\jngst\\source\\repos\\SQLiteDemo\\SQLiteDEMO\\SQLiteDEMO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jngst\\source\\repos\\SQLiteDEMO\\SQLiteDEMO\\SQLiteDEMO.csproj",
+        "projectUniqueName": "C:\\Users\\jngst\\source\\repos\\SQLiteDemo\\SQLiteDEMO\\SQLiteDEMO.csproj",
         "projectName": "SQLiteDEMO",
-        "projectPath": "C:\\Users\\jngst\\source\\repos\\SQLiteDEMO\\SQLiteDEMO\\SQLiteDEMO.csproj",
+        "projectPath": "C:\\Users\\jngst\\source\\repos\\SQLiteDemo\\SQLiteDEMO\\SQLiteDEMO.csproj",
         "packagesPath": "C:\\Users\\jngst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jngst\\source\\repos\\SQLiteDEMO\\SQLiteDEMO\\obj\\",
+        "outputPath": "C:\\Users\\jngst\\source\\repos\\SQLiteDemo\\SQLiteDEMO\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

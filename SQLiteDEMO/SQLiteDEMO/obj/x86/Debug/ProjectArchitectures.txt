@@ -1,1 +1,1 @@
-C:\Users\jngst\source\repos\SQLiteDEMO\SQLiteDEMO\SQLiteDEMO.csproj;x86
+C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\SQLiteDEMO.csproj;x86

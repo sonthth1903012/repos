@@ -40,12 +40,48 @@ namespace YoutubeJSON
         List<Video> ListVideo = new List<Video>();
         private string TokenNextPage = null, TokenPrivPage = null;
 
+        string path;
+        SQLite.Net.SQLiteConnection conn;
+
+      
+        public void Retrieve_Click(object sender, RoutedEventArgs e)
+        {
+            var query = conn.Table<ListMark>();
+            string id = "";
+            string link = "";          
+
+            foreach (var message in query)
+            {
+                id = id + " " + message.Id;
+                link = link + " " + message.Link;
+            }
+            textBlock2.Text = "ID: " + id + "\nName: " + link;
+        }
+        private void Add_Click(object sender, RoutedEventArgs e)
+        {
+            var s = conn.Insert(new Mark()
+            {
+                 ,///link video
+            });
+        }
+
 
         public MainPage()
         {
             this.InitializeComponent();
             GetVideo();
-            
+
+
+            path =
+           Path.Combine
+           (Windows.Storage.ApplicationData.Current.LocalFolder.Path, "db.sqlite");
+
+            conn =
+            new SQLite.Net.SQLiteConnection
+            (new SQLite.Net.Platform.WinRT.SQLitePlatformWinRT(), path);
+
+            conn.CreateTable<ListMark>();
+
         }
 
         private async void GetVideo(string PageToken = null)
@@ -95,6 +131,8 @@ namespace YoutubeJSON
             Video video = e.ClickedItem as Video;
             Frame.Navigate(typeof(VideoPage), video);
         }
+
+
 
 
 
