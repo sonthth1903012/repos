@@ -75,6 +75,10 @@ namespace SQLiteDEMO
             [Unique] public string Phone_number { get; set; }
         }
 
+        private void TextBlock_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 
 

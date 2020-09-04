@@ -14,12 +14,16 @@
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Button">
       <RootProperty Name="Content" />
+      <RootProperty Name="FontStyle" />
+      <RootProperty Name="FontWeight" />
       <RootProperty Name="Margin" />
       <RootProperty Name="Width" />
       <RootProperty Name="VerticalAlignment" />
       <RootEvent Name="Click" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="FontStyle" />
+      <RootProperty Name="FontWeight" />
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="TextWrapping" />
       <RootProperty Name="Text" />
@@ -29,6 +33,7 @@
       <RootProperty Name="RenderTransformOrigin" />
       <RootProperty Name="Height" />
       <RootProperty Name="FontSize" />
+      <RootEvent Name="SelectionChanged" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
       <RootProperty Name="HorizontalAlignment" />

@@ -13,11 +13,16 @@
         <Button x:ConnectionId='2' x:Name="Retrieve" 
                 Content="Show  List" 
                 VerticalAlignment="Top" 
+                FontStyle="Italic"
+                FontWeight="Bold"
                 Margin="513,384,0,0" 
                                        Width="370"/>
 
+
         <TextBlock x:ConnectionId='3' x:Name="textBlock" 
                    HorizontalAlignment="Left" 
+                   FontStyle="Italic"
+                   FontWeight="Bold"
                    TextWrapping="Wrap" 
                    Text="Name" 
                    VerticalAlignment="Top"
@@ -33,6 +38,8 @@
 
         <TextBlock x:ConnectionId='5' x:Name="textBlock1"
                    HorizontalAlignment="Left"
+                   FontStyle="Italic"
+                   FontWeight="Bold"
                    TextWrapping="Wrap" 
                    Text="Phone Number" 
                    VerticalAlignment="Top"
@@ -45,13 +52,35 @@
                  VerticalAlignment="Top"
                  Margin="513,308,0,0" 
                  Width="370"/>
-        <Border BorderThickness="1" BorderBrush="Black" HorizontalAlignment="Left" Height="4" Margin="353,144,0,0" VerticalAlignment="Top" Width="671" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+        <Border BorderThickness="1" BorderBrush="Blue" HorizontalAlignment="Left" Height="4" Margin="352,135,0,0" VerticalAlignment="Top" Width="671" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
             <Border.RenderTransform>
                 <CompositeTransform Rotation="-0.56" ScaleY="-1"/>
             </Border.RenderTransform>
         </Border>
-        <TextBlock HorizontalAlignment="Left" Height="84" Margin="356,32,0,0" Text="Search Contact" TextWrapping="Wrap" VerticalAlignment="Top" Width="494" FontSize="57"/>
-        <TextBlock x:ConnectionId='7'  x:Name="textBlock2" HorizontalAlignment="Left" Margin="374,516,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="629" Height="107"/>
+        <TextBlock x:ConnectionId='7' HorizontalAlignment="Left" 
+                   Height="84" 
+                  
+                   FontStyle="Italic"
+                   FontWeight="Bold"
+                   Margin="356,32,0,0"
+                   Text="Search Contact" 
+                   TextWrapping="Wrap" 
+                   VerticalAlignment="Top" 
+                   Width="494"
+                   FontSize="57"                                              />
+        <TextBlock x:ConnectionId='8'  x:Name="textBlock2" 
+                    HorizontalAlignment="Left" 
+                    Margin="374,516,0,0" 
+                    Text=""
+                    TextWrapping="Wrap" 
+                    VerticalAlignment="Top"
+                    Width="629"
+                    Height="107"/>
+        <Border BorderThickness="1" BorderBrush="Blue" HorizontalAlignment="Left" Height="4" Margin="352,126,0,0" VerticalAlignment="Top" Width="671" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Border.RenderTransform>
+                <CompositeTransform Rotation="-0.56" ScaleY="-1"/>
+            </Border.RenderTransform>
+        </Border>
     </Grid>
 </Page>
 

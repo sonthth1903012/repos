@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-09-04T03:10:53.465</Modified>
+      <Modified>2020-09-04T03:19:48.414</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\SQLiteDEMO.exe">
       <PackagePath>entrypoint\SQLiteDEMO.exe</PackagePath>
-      <Modified>2020-09-04T03:10:51.722</Modified>
+      <Modified>2020-09-04T03:19:47.400</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -98,7 +98,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\SQLiteDEMO.xr.xml">
       <PackagePath>SQLiteDEMO.xr.xml</PackagePath>
-      <Modified>2020-09-04T03:10:51.409</Modified>
+      <Modified>2020-09-04T03:19:47.155</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
@@ -106,11 +106,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-09-04T03:10:51.444</Modified>
+      <Modified>2020-09-04T03:19:47.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\TheSearch.xbf">
       <PackagePath>TheSearch.xbf</PackagePath>
-      <Modified>2020-09-04T03:10:51.444</Modified>
+      <Modified>2020-09-04T03:19:47.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -122,7 +122,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jngst\source\repos\SQLiteDemo\SQLiteDEMO\bin\x86\Debug\Core\SQLiteDEMO.exe">
       <PackagePath>SQLiteDEMO.exe</PackagePath>
-      <Modified>2020-09-04T03:10:53.439</Modified>
+      <Modified>2020-09-04T03:19:48.402</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

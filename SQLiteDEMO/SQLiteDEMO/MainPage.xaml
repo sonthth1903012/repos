@@ -13,16 +13,22 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="0,0,0,10">
         <Button x:Name="Search" 
                  Content="Add Contact" 
+                FontStyle="Italic"
+                   FontWeight="Bold"
                  Margin="513,373,0,0" 
                  Click="Add_Click" Width="370" VerticalAlignment="Top"/>
 
         <Button x:Name="Retrieve" 
                 Content="Show  List" 
                 VerticalAlignment="Top" 
+                FontStyle="Italic"
+                   FontWeight="Bold"
                 Margin="513,436,0,0" 
                 Click="Retrieve_Click" Width="370"/>
 
         <TextBlock x:Name="textBlock" 
+                   FontStyle="Italic"
+                   FontWeight="Bold"
                    HorizontalAlignment="Left" 
                    TextWrapping="Wrap" 
                    Text="Name" 
@@ -38,6 +44,8 @@
                  Width="370"/>
 
         <TextBlock x:Name="textBlock1"
+                   FontStyle="Italic"
+                   FontWeight="Bold"
                    HorizontalAlignment="Left"
                    TextWrapping="Wrap" 
                    Text="Phone Number" 
@@ -51,13 +59,21 @@
                  VerticalAlignment="Top"
                  Margin="513,308,0,0" 
                  Width="370"/>
-        <Border BorderThickness="1" BorderBrush="Black" HorizontalAlignment="Left" Height="4" Margin="353,144,0,0" VerticalAlignment="Top" Width="671" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+        <Border BorderThickness="1" BorderBrush="Blue" HorizontalAlignment="Left" Height="4" Margin="350,136,0,0" VerticalAlignment="Top" Width="671" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
             <Border.RenderTransform>
                 <CompositeTransform Rotation="-0.56" ScaleY="-1"/>
             </Border.RenderTransform>
         </Border>
-        <TextBlock HorizontalAlignment="Left" Height="84" Margin="356,32,0,0" Text="Add Contact" TextWrapping="Wrap" VerticalAlignment="Top" Width="494" FontSize="57"/>
+        <TextBlock HorizontalAlignment="Left"
+                   FontStyle="Italic"
+                   FontWeight="Bold"
+                   Height="84" Margin="356,32,0,0" Text="Add Contact" TextWrapping="Wrap" VerticalAlignment="Top" Width="494" FontSize="57"/>
         <TextBlock  x:Name="textBlock2" HorizontalAlignment="Left" Margin="374,516,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="629" Height="107"/>
+        <Border BorderThickness="1" BorderBrush="Blue" HorizontalAlignment="Left" Height="4" Margin="350,124,0,0" VerticalAlignment="Top" Width="671" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Border.RenderTransform>
+                <CompositeTransform Rotation="-0.56" ScaleY="-1"/>
+            </Border.RenderTransform>
+        </Border>
     </Grid>
 </Page>
 
