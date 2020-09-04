@@ -56,7 +56,7 @@ namespace SQLiteDEMO
                 name = name + " " + message.Name;
                 Phone_number = Phone_number + " " + message.Phone_number;
             }
-            textBlock2.Text = "ID: " + id + "\nName: " + name + "\nAge: " + Phone_number;
+            textBlock2.Text = "ID: " + id + "\nName: " + name + "\nPhone_number: " + Phone_number;
         }
         private void Add_Click(object sender, RoutedEventArgs e)
         {
